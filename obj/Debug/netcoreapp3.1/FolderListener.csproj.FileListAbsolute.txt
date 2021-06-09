@@ -1,0 +1,13 @@
+C:\Users\Justin\source\repos\FolderListener\FileListener\bin\Debug\netcoreapp3.1\FolderListener.exe
+C:\Users\Justin\source\repos\FolderListener\FileListener\bin\Debug\netcoreapp3.1\FolderListener.deps.json
+C:\Users\Justin\source\repos\FolderListener\FileListener\bin\Debug\netcoreapp3.1\FolderListener.runtimeconfig.json
+C:\Users\Justin\source\repos\FolderListener\FileListener\bin\Debug\netcoreapp3.1\FolderListener.runtimeconfig.dev.json
+C:\Users\Justin\source\repos\FolderListener\FileListener\bin\Debug\netcoreapp3.1\FolderListener.dll
+C:\Users\Justin\source\repos\FolderListener\FileListener\bin\Debug\netcoreapp3.1\FolderListener.pdb
+C:\Users\Justin\source\repos\FolderListener\FileListener\obj\Debug\netcoreapp3.1\FolderListener.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\FolderListener\FileListener\obj\Debug\netcoreapp3.1\FolderListener.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\FolderListener\FileListener\obj\Debug\netcoreapp3.1\FolderListener.AssemblyInfo.cs
+C:\Users\Justin\source\repos\FolderListener\FileListener\obj\Debug\netcoreapp3.1\FolderListener.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\FolderListener\FileListener\obj\Debug\netcoreapp3.1\FolderListener.dll
+C:\Users\Justin\source\repos\FolderListener\FileListener\obj\Debug\netcoreapp3.1\FolderListener.pdb
+C:\Users\Justin\source\repos\FolderListener\FileListener\obj\Debug\netcoreapp3.1\FolderListener.genruntimeconfig.cache

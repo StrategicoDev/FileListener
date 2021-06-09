@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Justin\\source\\repos\\FolderListener\\FolderListener.csproj": {}
+    "C:\\Users\\Justin\\source\\repos\\FolderListener\\FileListener\\FolderListener.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Justin\\source\\repos\\FolderListener\\FolderListener.csproj": {
+    "C:\\Users\\Justin\\source\\repos\\FolderListener\\FileListener\\FolderListener.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Justin\\source\\repos\\FolderListener\\FolderListener.csproj",
+        "projectUniqueName": "C:\\Users\\Justin\\source\\repos\\FolderListener\\FileListener\\FolderListener.csproj",
         "projectName": "FolderListener",
-        "projectPath": "C:\\Users\\Justin\\source\\repos\\FolderListener\\FolderListener.csproj",
+        "projectPath": "C:\\Users\\Justin\\source\\repos\\FolderListener\\FileListener\\FolderListener.csproj",
         "packagesPath": "C:\\Users\\Justin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Justin\\source\\repos\\FolderListener\\obj\\",
+        "outputPath": "C:\\Users\\Justin\\source\\repos\\FolderListener\\FileListener\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Justin\\AppData\\Roaming\\NuGet\\NuGet.Config",

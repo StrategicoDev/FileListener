@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s5Prosh8maEYstqEwTTOQjJjCuTuIJyJpBpC8bZwNFPjfWY60X7iSMeWpoILYYGREf1ZMSBokfEu03XlF1bkDA==",
+  "dgSpecHash": "Io2L5K3xteja9Buxjp50yMJWCoINfVSH7yqbzZHLJMM7rh+/BzQiPvlItoGer+KYYskqxXtXgi8bCaLbvBQj6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Justin\\source\\repos\\FolderListener\\FolderListener.csproj",
+  "projectFilePath": "C:\\Users\\Justin\\source\\repos\\FolderListener\\FileListener\\FolderListener.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
